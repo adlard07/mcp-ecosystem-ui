@@ -67,6 +67,7 @@ export default function Chatbot() {
           Clear
         </button>
       </header>
+      
 
       {/* Messages */}
       <div
